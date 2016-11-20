@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private void Metoda(){
         int i = 5;
     }
+
+    private void AltaMetoda(){
+        int j = 10;
+    }
 }
